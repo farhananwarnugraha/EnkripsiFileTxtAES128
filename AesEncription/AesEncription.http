@@ -1,0 +1,6 @@
+@AesEncription_HostAddress = http://localhost:5230
+
+GET {{AesEncription_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
