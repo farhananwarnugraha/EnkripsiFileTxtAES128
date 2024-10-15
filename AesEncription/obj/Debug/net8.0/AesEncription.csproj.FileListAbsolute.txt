@@ -30,3 +30,4 @@ C:\Self Project\AnotherProject\AesEncription\AesEncription\obj\Debug\net8.0\refi
 C:\Self Project\AnotherProject\AesEncription\AesEncription\obj\Debug\net8.0\AesEncription.pdb
 C:\Self Project\AnotherProject\AesEncription\AesEncription\obj\Debug\net8.0\AesEncription.genruntimeconfig.cache
 C:\Self Project\AnotherProject\AesEncription\AesEncription\obj\Debug\net8.0\ref\AesEncription.dll
+C:\Self Project\AnotherProject\AesEncription\AesEncription\obj\Debug\net8.0\AesEncription.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AesEncription")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f1dba52d1363a854d7092243e55b7f079d4049")]
 [assembly: System.Reflection.AssemblyProductAttribute("AesEncription")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AesEncription")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
