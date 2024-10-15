@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AesEncription")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a625c87368aa1d48194e7c8a8c641c97b7e29df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0038b08019d00909d487ef737ec0f1180c3dc1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AesEncription")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AesEncription")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
