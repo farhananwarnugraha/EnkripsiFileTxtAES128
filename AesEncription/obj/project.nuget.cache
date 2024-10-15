@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eo1rqhbFx00=",
+  "dgSpecHash": "z/5X+GB6JJ8=",
   "success": true,
-  "projectFilePath": "C:\\Self Project\\AnotherProject\\AesEncription\\AesEncription\\AesEncription.csproj",
+  "projectFilePath": "C:\\Self Project\\AnotherProject\\Cloning\\EnkripsiFileTxtAES128\\AesEncription\\AesEncription.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1961\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\1961\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

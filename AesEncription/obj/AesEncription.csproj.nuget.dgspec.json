@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Self Project\\AnotherProject\\AesEncription\\AesEncription\\AesEncription.csproj": {}
+    "C:\\Self Project\\AnotherProject\\Cloning\\EnkripsiFileTxtAES128\\AesEncription\\AesEncription.csproj": {}
   },
   "projects": {
-    "C:\\Self Project\\AnotherProject\\AesEncription\\AesEncription\\AesEncription.csproj": {
+    "C:\\Self Project\\AnotherProject\\Cloning\\EnkripsiFileTxtAES128\\AesEncription\\AesEncription.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Self Project\\AnotherProject\\AesEncription\\AesEncription\\AesEncription.csproj",
+        "projectUniqueName": "C:\\Self Project\\AnotherProject\\Cloning\\EnkripsiFileTxtAES128\\AesEncription\\AesEncription.csproj",
         "projectName": "AesEncription",
-        "projectPath": "C:\\Self Project\\AnotherProject\\AesEncription\\AesEncription\\AesEncription.csproj",
+        "projectPath": "C:\\Self Project\\AnotherProject\\Cloning\\EnkripsiFileTxtAES128\\AesEncription\\AesEncription.csproj",
         "packagesPath": "C:\\Users\\1961\\.nuget\\packages\\",
-        "outputPath": "C:\\Self Project\\AnotherProject\\AesEncription\\AesEncription\\obj\\",
+        "outputPath": "C:\\Self Project\\AnotherProject\\Cloning\\EnkripsiFileTxtAES128\\AesEncription\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1961\\AppData\\Roaming\\NuGet\\NuGet.Config",
